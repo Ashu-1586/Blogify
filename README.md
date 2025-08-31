@@ -25,7 +25,7 @@ Follow the steps below to set up the project locally.
 ### 🔁 Clone the Repository
 
 ```bash
-git clone https://github.com/shaghaf7/Blogify
+git clone https://github.com/Ashu-1586/Blogify.git
 cd blogify
 ```
 
